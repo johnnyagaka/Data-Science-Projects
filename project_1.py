@@ -8,7 +8,7 @@ Original file is located at
 
 # Political Alignment Case Study
 
-Allen Downey
+John Nyagaka
 
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 
